@@ -1,0 +1,21 @@
+body{
+background-color: rgb(197, 41, 41);    
+}
+#boton_enviar
+{
+background-color: rgb(131, 131, 240);
+margin-top: 20px;
+margin-bottom: 20px;    
+}
+#boton_ordenar
+{
+display:none;
+background-color: rgb(131, 131, 240);
+margin-top: 20px;
+margin-bottom: 20px;    
+}
+input
+{
+background-color: rgb(241, 216, 74);
+margin: 10px;
+}
